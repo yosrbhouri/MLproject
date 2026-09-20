@@ -1,0 +1,12 @@
+2026-01-20 15:40:32,208 - INFO - Starting ML project execution
+2026-01-20 15:40:32,209 - INFO - Step 1: Downloading dataset
+2026-01-20 15:48:11,375 - ERROR - Failed to download dataset: ("Connection broken: ConnectionAbortedError(10053, 'Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte', None, 10053, None)", ConnectionAbortedError(10053, 'Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte', None, 10053, None))
+2026-01-20 15:48:11,375 - ERROR - Execution failed: ("Connection broken: ConnectionAbortedError(10053, 'Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte', None, 10053, None)", ConnectionAbortedError(10053, 'Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte', None, 10053, None))
+2026-01-22 11:30:09,021 - INFO - Starting ML project execution
+2026-01-22 11:30:09,023 - INFO - Step 1: Downloading dataset
+2026-01-22 11:32:19,992 - INFO - Starting ML project execution
+2026-01-22 11:32:19,992 - INFO - Step 1: Downloading dataset
+2026-01-22 11:32:28,226 - INFO - Starting ML project execution
+2026-01-22 11:32:28,226 - INFO - Step 1: Downloading dataset
+2026-01-22 11:32:29,106 - INFO - Starting ML project execution
+2026-01-22 11:32:29,106 - INFO - Step 1: Downloading dataset
